@@ -1,8 +1,8 @@
 //Create variables here
 var doghappy,dogimage,dog,database,foodstock,gravity
 function preload()
-{doghappy = loadImage("./dogImg1.png")
-dogimage = loadImage("./dogImg.png")
+{doghappy = loadImage("dogImg1.png")
+dogimage = loadImage("dogImg.png")
 	//load images here
 }
 
